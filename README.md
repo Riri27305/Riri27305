@@ -179,7 +179,7 @@ Built a robust ETL and analytics pipeline to clean, transform, and ingest custom
 
 ## <img src="https://img.shields.io/badge/-Experience-7B2FF7?style=flat-square"/>
 
-**Python Developer Intern · Airtel — Finance Department**
+**Data Analytics Intern · Airtel — Finance Department**
 `Feb 2026 – Apr 2026 · Gurugram, Haryana`
 
 Engineered end-to-end automation systems for financial reporting and accounts payable workflows within a live enterprise finance environment.
